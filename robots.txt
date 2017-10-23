@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://gsuresh26kr.github.io/test.linuxjoy/sitemap.xml 
